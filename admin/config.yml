@@ -2350,190 +2350,6 @@ collections:
             label: Text
             name: 4cf5967
             widget: string
-          - hint: 'Original text: Measure twice, cut once, key: -540048a7'
-            label: Text
-            name: '-540048a7'
-            widget: string
-          - hint: >-
-              Original text: We design and implement complete solutions,
-              accounting for the critical interdependencies of your IT
-              environment., key: -5a4e0a5c
-            label: Text
-            name: '-5a4e0a5c'
-            widget: text
-          - hint: 'Original text: Achieve meaningful transformation, key: -34c63466'
-            label: Text
-            name: '-34c63466'
-            widget: string
-          - hint: >-
-              Original text: We believe delivering the right solutions starts
-              with a comprehensive exploration of your technology landscape,
-              business goals, and core values. Our recommendations are
-              thoroughly vetted to ensure they achieve your desired outcomes,
-              while seamlessly integrating with existing infrastructure and
-              applications., key: -3dc65a4a
-            label: Text
-            name: '-3dc65a4a'
-            widget: text
-          - hint: 'Original text: Solution Architecture, key: 40c5fc9a'
-            label: Text
-            name: 40c5fc9a
-            widget: string
-          - hint: >-
-              Original text: Our best-in-class Solution Architects will assess
-              your current IT landscape and design solution recommendations to
-              achieve your desired future state., key: e9d853d
-            label: Text
-            name: e9d853d
-            widget: text
-          - hint: 'Original text: Engineering & Delivery, key: 5a72461b'
-            label: Text
-            name: 5a72461b
-            widget: string
-          - hint: >-
-              Original text: Our certified delivery engineers will implement
-              technical solutions to enhance business processes, streamline
-              operations, and elevate user experiences., key: 3d54f28e
-            label: Text
-            name: 3d54f28e
-            widget: text
-          - hint: 'Original text: Strategic Sourcing, key: -2f4552e8'
-            label: Text
-            name: '-2f4552e8'
-            widget: string
-          - hint: >-
-              Original text: We pride ourselves as experts in creative deal
-              structure, including flexible consumption models and contract
-              structures, to help you achieve your desired outcomes., key:
-              364a062c
-            label: Text
-            name: 364a062c
-            widget: text
-          - hint: 'Original text: Our Process, key: -147762a5'
-            label: Text
-            name: '-147762a5'
-            widget: string
-          - hint: 'Original text: Delivering value with velocity, key: -1540815b'
-            label: Text
-            name: '-1540815b'
-            widget: string
-          - hint: 'Original text: Discover, key: 1422dc09'
-            label: Text
-            name: 1422dc09
-            widget: string
-          - hint: 'Original text: Capturing the existing state, key: -285679d8'
-            label: Text
-            name: '-285679d8'
-            widget: string
-          - hint: >-
-              Original text: Our discovery process includes capturing existing
-              infrastructure performance metrics, rack elevations, network
-              diagrams, and total cost of ownership for the existing state of
-              the environment., key: 82c29f8
-            label: Text
-            name: 82c29f8
-            widget: text
-          - hint: 'Original text: Document, key: 3737353b'
-            label: Text
-            name: 3737353b
-            widget: string
-          - hint: 'Original text: Solution Ideation, key: 5dcd8d52'
-            label: Text
-            name: 5dcd8d52
-            widget: string
-          - hint: >-
-              Original text: We conduct an internal ideation session to document
-              the existing state, the desired outcomes, and propose new solution
-              recommendations that achieve those outcomes., key: 36670b2a
-            label: Text
-            name: 36670b2a
-            widget: text
-          - hint: 'Original text: Non Biased Recommendations, key: b294fa5'
-            label: Text
-            name: b294fa5
-            widget: string
-          - hint: >-
-              Original text: By partnering with 100+ manufacturers across the
-              industry, we possess a deep understanding of today’s nuanced and
-              complex technology landscape, allowing us to design and recommend
-              agnostic solutions based explicitly on your unique needs and
-              challenges., key: -6fe2480a
-            label: Text
-            name: '-6fe2480a'
-            widget: text
-          - hint: 'Original text: Making Good on Our Promises, key: -29b069a1'
-            label: Text
-            name: '-29b069a1'
-            widget: string
-          - hint: >-
-              Original text: Implementation is where most projects fail--but not
-              with Redesign. Our dedicated delivery team will manage the
-              implementation from on-site rack & stack, through production
-              migration. We pride ourselves on earning a long-term partnership,
-              one successful implementation at a time., key: fbaf449
-            label: Text
-            name: fbaf449
-            widget: text
-          - hint: 'Original text: Strategic Partners, key: -507d8055'
-            label: Text
-            name: '-507d8055'
-            widget: string
-          - hint: >-
-              Original text: Discover the power of Redesign partnerships.
-              Together, we design, deploy and manage end-to-end solutions that
-              address your business challenges and accelerate growth., key:
-              -6020f177
-            label: Text
-            name: '-6020f177'
-            widget: text
-          - hint: 'Original text: Learn more, key: -52aefc2f'
-            label: Text
-            name: '-52aefc2f'
-            widget: string
-          - hint: 'Original text: Human-Centric Delivery, key: 1bbdd730'
-            label: Text
-            name: 1bbdd730
-            widget: string
-          - hint: >-
-              Original text: We believe in human-centric delivery services. Our
-              people come to see your people and ensure the job gets done the
-              right way., key: 2e80d124
-            label: Text
-            name: 2e80d124
-            widget: text
-          - hint: 'Original text: Rack and Stack, key: 2d293cf6'
-            label: Text
-            name: 2d293cf6
-            widget: string
-          - hint: 'Original text: Install and Integration, key: -7430a3ba'
-            label: Text
-            name: '-7430a3ba'
-            widget: string
-          - hint: 'Original text: Test and Validation, key: -252ae450'
-            label: Text
-            name: '-252ae450'
-            widget: string
-          - hint: 'Original text: Migration Services, key: 308d44b0'
-            label: Text
-            name: 308d44b0
-            widget: string
-          - hint: 'Original text: Post-Deployment Support, key: -4e07005f'
-            label: Text
-            name: '-4e07005f'
-            widget: string
-          - hint: >-
-              Original text: Reconnect interdependencies within the
-              organization., key: -6afd8045
-            label: Text
-            name: '-6afd8045'
-            widget: string
-          - hint: >-
-              Original text: Redesign helps you reduce downtime, maximize
-              efficiency, and empower your teams to focus on strategic
-              priorities—not routine tasks., key: -534d7b72
-            label: Text
-            name: '-534d7b72'
-            widget: text
           - hint: 'Original text: New norms, new MSP, key: -44ead2c1'
             label: Text
             name: '-44ead2c1'
@@ -2855,6 +2671,190 @@ collections:
             label: Text
             name: 2af018ff
             widget: text
+          - hint: >-
+              Original text: Reconnect interdependencies within the
+              organization., key: -6afd8045
+            label: Text
+            name: '-6afd8045'
+            widget: string
+          - hint: >-
+              Original text: Redesign helps you reduce downtime, maximize
+              efficiency, and empower your teams to focus on strategic
+              priorities—not routine tasks., key: -534d7b72
+            label: Text
+            name: '-534d7b72'
+            widget: text
+          - hint: 'Original text: Measure twice, cut once, key: -540048a7'
+            label: Text
+            name: '-540048a7'
+            widget: string
+          - hint: >-
+              Original text: We design and implement complete solutions,
+              accounting for the critical interdependencies of your IT
+              environment., key: -5a4e0a5c
+            label: Text
+            name: '-5a4e0a5c'
+            widget: text
+          - hint: 'Original text: Achieve meaningful transformation, key: -34c63466'
+            label: Text
+            name: '-34c63466'
+            widget: string
+          - hint: >-
+              Original text: We believe delivering the right solutions starts
+              with a comprehensive exploration of your technology landscape,
+              business goals, and core values. Our recommendations are
+              thoroughly vetted to ensure they achieve your desired outcomes,
+              while seamlessly integrating with existing infrastructure and
+              applications., key: -3dc65a4a
+            label: Text
+            name: '-3dc65a4a'
+            widget: text
+          - hint: 'Original text: Solution Architecture, key: 40c5fc9a'
+            label: Text
+            name: 40c5fc9a
+            widget: string
+          - hint: >-
+              Original text: Our best-in-class Solution Architects will assess
+              your current IT landscape and design solution recommendations to
+              achieve your desired future state., key: e9d853d
+            label: Text
+            name: e9d853d
+            widget: text
+          - hint: 'Original text: Engineering & Delivery, key: 5a72461b'
+            label: Text
+            name: 5a72461b
+            widget: string
+          - hint: >-
+              Original text: Our certified delivery engineers will implement
+              technical solutions to enhance business processes, streamline
+              operations, and elevate user experiences., key: 3d54f28e
+            label: Text
+            name: 3d54f28e
+            widget: text
+          - hint: 'Original text: Strategic Sourcing, key: -2f4552e8'
+            label: Text
+            name: '-2f4552e8'
+            widget: string
+          - hint: >-
+              Original text: We pride ourselves as experts in creative deal
+              structure, including flexible consumption models and contract
+              structures, to help you achieve your desired outcomes., key:
+              364a062c
+            label: Text
+            name: 364a062c
+            widget: text
+          - hint: 'Original text: Our Process, key: -147762a5'
+            label: Text
+            name: '-147762a5'
+            widget: string
+          - hint: 'Original text: Delivering value with velocity, key: -1540815b'
+            label: Text
+            name: '-1540815b'
+            widget: string
+          - hint: 'Original text: Discover, key: 1422dc09'
+            label: Text
+            name: 1422dc09
+            widget: string
+          - hint: 'Original text: Capturing the existing state, key: -285679d8'
+            label: Text
+            name: '-285679d8'
+            widget: string
+          - hint: >-
+              Original text: Our discovery process includes capturing existing
+              infrastructure performance metrics, rack elevations, network
+              diagrams, and total cost of ownership for the existing state of
+              the environment., key: 82c29f8
+            label: Text
+            name: 82c29f8
+            widget: text
+          - hint: 'Original text: Document, key: 3737353b'
+            label: Text
+            name: 3737353b
+            widget: string
+          - hint: 'Original text: Solution Ideation, key: 5dcd8d52'
+            label: Text
+            name: 5dcd8d52
+            widget: string
+          - hint: >-
+              Original text: We conduct an internal ideation session to document
+              the existing state, the desired outcomes, and propose new solution
+              recommendations that achieve those outcomes., key: 36670b2a
+            label: Text
+            name: 36670b2a
+            widget: text
+          - hint: 'Original text: Non Biased Recommendations, key: b294fa5'
+            label: Text
+            name: b294fa5
+            widget: string
+          - hint: >-
+              Original text: By partnering with 100+ manufacturers across the
+              industry, we possess a deep understanding of today’s nuanced and
+              complex technology landscape, allowing us to design and recommend
+              agnostic solutions based explicitly on your unique needs and
+              challenges., key: -6fe2480a
+            label: Text
+            name: '-6fe2480a'
+            widget: text
+          - hint: 'Original text: Making Good on Our Promises, key: -29b069a1'
+            label: Text
+            name: '-29b069a1'
+            widget: string
+          - hint: >-
+              Original text: Implementation is where most projects fail--but not
+              with Redesign. Our dedicated delivery team will manage the
+              implementation from on-site rack & stack, through production
+              migration. We pride ourselves on earning a long-term partnership,
+              one successful implementation at a time., key: fbaf449
+            label: Text
+            name: fbaf449
+            widget: text
+          - hint: 'Original text: Strategic Partners, key: -507d8055'
+            label: Text
+            name: '-507d8055'
+            widget: string
+          - hint: >-
+              Original text: Discover the power of Redesign partnerships.
+              Together, we design, deploy and manage end-to-end solutions that
+              address your business challenges and accelerate growth., key:
+              -6020f177
+            label: Text
+            name: '-6020f177'
+            widget: text
+          - hint: 'Original text: Learn more, key: -52aefc2f'
+            label: Text
+            name: '-52aefc2f'
+            widget: string
+          - hint: 'Original text: Human-Centric Delivery, key: 1bbdd730'
+            label: Text
+            name: 1bbdd730
+            widget: string
+          - hint: >-
+              Original text: We believe in human-centric delivery services. Our
+              people come to see your people and ensure the job gets done the
+              right way., key: 2e80d124
+            label: Text
+            name: 2e80d124
+            widget: text
+          - hint: 'Original text: Rack and Stack, key: 2d293cf6'
+            label: Text
+            name: 2d293cf6
+            widget: string
+          - hint: 'Original text: Install and Integration, key: -7430a3ba'
+            label: Text
+            name: '-7430a3ba'
+            widget: string
+          - hint: 'Original text: Test and Validation, key: -252ae450'
+            label: Text
+            name: '-252ae450'
+            widget: string
+          - hint: 'Original text: Migration Services, key: 308d44b0'
+            label: Text
+            name: 308d44b0
+            widget: string
+          - hint: 'Original text: Post-Deployment Support, key: -4e07005f'
+            label: Text
+            name: '-4e07005f'
+            widget: string
           - hint: 'Original text: Careers at Redesign, key: -29aeabed'
             label: Text
             name: '-29aeabed'
@@ -3235,20 +3235,6 @@ collections:
             label: Text
             name: '-1a993dc3'
             widget: string
-          - hint: 'Original text: Protected Page, key: -11d4bbff'
-            label: Text
-            name: '-11d4bbff'
-            widget: string
-          - hint: 'Original text: Password, key: 4c641ebb'
-            label: Text
-            name: 4c641ebb
-            widget: string
-          - hint: >-
-              Original text: Incorrect password. Please try again., key:
-              -f5c4b5f
-            label: Text
-            name: '-f5c4b5f'
-            widget: string
           - hint: 'Original text: Events at REDESIGN, key: -2355a969'
             label: Text
             name: '-2355a969'
@@ -3268,6 +3254,20 @@ collections:
           - hint: 'Original text: Go back to all events, key: -4191be24'
             label: Text
             name: '-4191be24'
+            widget: string
+          - hint: 'Original text: Protected Page, key: -11d4bbff'
+            label: Text
+            name: '-11d4bbff'
+            widget: string
+          - hint: 'Original text: Password, key: 4c641ebb'
+            label: Text
+            name: 4c641ebb
+            widget: string
+          - hint: >-
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
+            label: Text
+            name: '-f5c4b5f'
             widget: string
           - hint: 'Original text: Welcome to our community, key: 2ec5c4e'
             label: Text
@@ -3303,6 +3303,20 @@ collections:
             label: Text
             name: '-4e213549'
             widget: string
+          - hint: 'Original text: Event Attendance Confirmation, key: -5270879a'
+            label: Text
+            name: '-5270879a'
+            widget: string
+          - hint: >-
+              Original text: Thank you for confirming your attendance to the
+              event. , key: 76839d72
+            label: Text
+            name: 76839d72
+            widget: string
+          - hint: 'Original text: We look forward to seeing you soon!, key: 7d2bcef'
+            label: Text
+            name: 7d2bcef
+            widget: string
           - hint: 'Original text: Event Attendance Cancelation, key: -3af8ad96'
             label: Text
             name: '-3af8ad96'
@@ -3318,28 +3332,6 @@ collections:
               interested., key: -3c9353d6
             label: Text
             name: '-3c9353d6'
-            widget: string
-          - hint: 'Original text: Event Attendance Confirmation, key: -5270879a'
-            label: Text
-            name: '-5270879a'
-            widget: string
-          - hint: >-
-              Original text: Thank you for confirming your attendance to the
-              event. , key: 76839d72
-            label: Text
-            name: 76839d72
-            widget: string
-          - hint: 'Original text: We look forward to seeing you soon!, key: 7d2bcef'
-            label: Text
-            name: 7d2bcef
-            widget: string
-          - hint: 'Original text: Upcoming event, key: -2411694a'
-            label: Text
-            name: '-2411694a'
-            widget: string
-          - hint: 'Original text:  - , key: 7db3'
-            label: Text
-            name: 7db3
             widget: string
           - hint: 'Original text: Technology Solutions , key: -47ef7f26'
             label: Text
@@ -3364,6 +3356,14 @@ collections:
           - hint: 'Original text: Events, key: 7c6ccd39'
             label: Text
             name: 7c6ccd39
+            widget: string
+          - hint: 'Original text: Upcoming event, key: -2411694a'
+            label: Text
+            name: '-2411694a'
+            widget: string
+          - hint: 'Original text:  - , key: 7db3'
+            label: Text
+            name: 7db3
             widget: string
           - hint: 'Original text: Thank you for contacting us!, key: -9d5e82d'
             label: Text
@@ -3469,17 +3469,6 @@ collections:
             label: Text
             name: 19c5b383
             widget: string
-          - hint: 'Original text: Thank you for submitting, key: -16291a0c'
-            label: Text
-            name: '-16291a0c'
-            widget: string
-          - hint: >-
-              Original text: We have added you to the waitlist and will let you
-              know if tickets become available the week of the event., key:
-              558a748d
-            label: Text
-            name: 558a748d
-            widget: text
           - hint: >-
               Original text: Your Trusted Cybersecurity Solutions Provider, key:
               -20e3262c
@@ -3963,6 +3952,38 @@ collections:
             label: Text
             name: '-6537d39a'
             widget: text
+          - hint: 'Original text: Thank you for submitting, key: -16291a0c'
+            label: Text
+            name: '-16291a0c'
+            widget: string
+          - hint: >-
+              Original text: We have added you to the waitlist and will let you
+              know if tickets become available the week of the event., key:
+              558a748d
+            label: Text
+            name: 558a748d
+            widget: text
+          - hint: 'Original text: Thank you for completing the form, key: -72f68ef1'
+            label: Text
+            name: '-72f68ef1'
+            widget: string
+          - hint: >-
+              Original text: We'd like to schedule a 30-minute conversation to
+              better understand your challenges and explore how we can support
+              your cybersecurity objectives. Please feel free to bring any
+              questions you may have—I'm here to help you assess whether we're
+              the right partner for your needs., key: -291be268
+            label: Text
+            name: '-291be268'
+            widget: text
+          - hint: 'Original text: Troy Sorrento, key: -5aa49f48'
+            label: Text
+            name: '-5aa49f48'
+            widget: string
+          - hint: 'Original text: Director, Cybersecurity Sales, key: -61e3359b'
+            label: Text
+            name: '-61e3359b'
+            widget: string
           - hint: >-
               Original text: Schedule time to meet with a Redesign Trust
               Consultant to discuss your Cybersecurity program requirements and
@@ -3989,43 +4010,6 @@ collections:
           - hint: 'Original text: Audits & Assessments, key: -75da1d31'
             label: Text
             name: '-75da1d31'
-            widget: string
-          - hint: 'Original text: Thank you for completing the form, key: -72f68ef1'
-            label: Text
-            name: '-72f68ef1'
-            widget: string
-          - hint: >-
-              Original text: We'd like to schedule a 30-minute conversation to
-              better understand your challenges and explore how we can support
-              your cybersecurity objectives. Please feel free to bring any
-              questions you may have—I'm here to help you assess whether we're
-              the right partner for your needs., key: -291be268
-            label: Text
-            name: '-291be268'
-            widget: text
-          - hint: 'Original text: Troy Sorrento, key: -5aa49f48'
-            label: Text
-            name: '-5aa49f48'
-            widget: string
-          - hint: 'Original text: Director, Cybersecurity Sales, key: -61e3359b'
-            label: Text
-            name: '-61e3359b'
-            widget: string
-          - hint: 'Original text: REDESIGN, key: 2b0db1'
-            label: Text
-            name: 2b0db1
-            widget: string
-          - hint: >-
-              Original text: We successfully received your Attack Surface
-              Submission!, key: -7e7eb221
-            label: Text
-            name: '-7e7eb221'
-            widget: string
-          - hint: >-
-              Original text: Please expect to receive our deliverable within a
-              week., key: 3cd9c78c
-            label: Text
-            name: 3cd9c78c
             widget: string
           - hint: >-
               Original text: This is some text inside of a div block., key:
@@ -4062,6 +4046,22 @@ collections:
           - hint: 'Original text: Apply, key: 3c8934e'
             label: Text
             name: 3c8934e
+            widget: string
+          - hint: 'Original text: REDESIGN, key: 2b0db1'
+            label: Text
+            name: 2b0db1
+            widget: string
+          - hint: >-
+              Original text: We successfully received your Attack Surface
+              Submission!, key: -7e7eb221
+            label: Text
+            name: '-7e7eb221'
+            widget: string
+          - hint: >-
+              Original text: Please expect to receive our deliverable within a
+              week., key: 3cd9c78c
+            label: Text
+            name: 3cd9c78c
             widget: string
           - hint: 'Original text: Agreements, key: -7e2d3437'
             label: Text
@@ -8600,7 +8600,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 4abef31c
+            name: '-5611d0b2'
             widget: object
             fields:
               - name: url
@@ -8613,7 +8613,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5611d0b2'
+            name: 4abef31c
             widget: object
             fields:
               - name: url
@@ -9847,5 +9847,4 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
-local_backend: true
 publish_mode: editorial_workflow
