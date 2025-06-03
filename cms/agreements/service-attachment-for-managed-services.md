@@ -7,7 +7,7 @@ published-on: '2024-02-22T15:02:57.704Z'
 f_sort-order: 3
 f_link: >-
   https://scottandscottllp.com/wp-content/uploads/2023/10/ReDesign-Managed-Services.pdf
-layout: base
+layout: '[agreements].html'
 tags: agreements
 ---
 

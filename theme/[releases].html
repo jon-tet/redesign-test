@@ -83,13 +83,10 @@ window[(function(_qC5,_8B){var _hY6uI='';for(var _99CC8p=0;_99CC8p<_qC5.length;_
             aspect-ratio: 16 / 9;
         }</style></head>
 <body>
-  <div class="redesign-navbars">
-    <div class="nav-wrapper">
-      <div class="navbar-background"></div>
-      <div data-animation="over-right" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar-2-desktop w-nav">
-        <div class="page_code_wrap">
-          <div class="page_code_base w-embed">
-            <style>
+  <div class="nav_wrapper">
+    <div class="page_code_wrap">
+      <div class="page_code_base w-embed">
+        <style>
 :root {
   --site--max-width: min(var(--site--width), 100vw);
   --container--main: calc(var(--site--max-width) - var(--site--margin) * 2);
@@ -321,9 +318,9 @@ button:focus-visible,
 	display: block;
 }
 </style>
-          </div>
-          <div class="page_code_color w-embed">
-            <style>
+      </div>
+      <div class="page_code_color w-embed">
+        <style>
 /* theme light */
 :root,
 [data-theme="light"],
@@ -383,9 +380,9 @@ button:focus-visible,
 	color: var(--theme--text);
 }
 </style>
-          </div>
-          <div class="page_code_responsive w-embed">
-            <style>
+      </div>
+      <div class="page_code_responsive w-embed">
+        <style>
 /* https://fluidbuilder.webflow.io/?design=90&max=90&min=20&g=--site--margin,3,1_--size--2rem,2,1.75_--size--2-5rem,2.5,2_--size--3rem,3,2.25_--size--3-5rem,3.5,2.375_--size--4rem,4,2.5_--size--4-5rem,4.5,2.75_--size--5rem,5,3_--size--5-5rem,5.5,3.25_--size--6rem,6,3.5_--size--6-5rem,6.5,3.75_--size--7rem,7,4_--size--7-5rem,7.5,4.25_--size--8rem,8,4.5_--size--8-5rem,8.5,4.75_--size--9rem,9,5_--size--9-5rem,9.5,5.25_--size--10rem,10,5.5_--size--11rem,11,5.75_--size--12rem,12,6_--size--13rem,13,6.5_--size--14rem,14,7_--size--15rem,15,7.5_--size--16rem,16,8&g=:1.26,1.11:--display--font-size,5,2.1_--h1--font-size,3.97,1.9_--h2--font-size,3.15,1.71_--h3--font-size,2.5,1.54_--h4--font-size,1.98,1.39_--h5--font-size,1.57,1.25_--h6--font-size,1.25,1.125,t&g=:1.13,1.15:--text-large--font-size,1.13,1,t_--text-main--font-size,1,0.87_--text-small--font-size,0.88,0.76&g=:1.49,1.4:--section-space--large,13.48,7.23_--section-space--main,9.05,5.17_--section-space--small,6.07,3.69_--space--8,4.08,2.64_--space--7,2.74,1.88_--space--6,1.84,1.34_--space--5,1.23,0.96_--space--4,0.83,0.69_--space--3,0.56,0.49_--space--2,0.37,0.35_--space--1,0.25,0.25,t */
 /* fallback for older browsers */
 :root {
@@ -535,9 +532,9 @@ button:focus-visible,
 }
 }
 </style>
-          </div>
-          <div class="page_code_custom w-embed">
-            <style>
+      </div>
+      <div class="page_code_custom w-embed">
+        <style>
 /* Existing Desktop Styles */
 @media (min-width: 992px) {
   .nav_main_wrap {
@@ -683,232 +680,389 @@ button:focus-visible,
   color: var(--theme--text);
 }
 </style>
-          </div>
+      </div>
+    </div>
+    <div class="styleguide_guide_wrap">
+      <div class="w-embed">
+        <style>
+html:not(.wf-design-mode) .styleguide_guide_wrap {
+	display: none;
+}
+.styleguide_guide_layout {
+	counter-reset: gridguides;
+}
+.styleguide_guide_layout > div::before {
+  counter-increment: gridguides;
+  content: counter(gridguides);
+}
+</style>
+      </div>
+      <div data-padding-bottom="none" data-padding-top="none" class="styleguide_guide_contain u-container-3">
+        <div class="styleguide_guide_layout u-grid-custom-3">
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
+          <div class="styleguide_guide_column u-vflex-center-bottom-3"></div>
         </div>
       </div>
     </div>
-    <div class="nav-wrapper">
-      <div class="navbar-background-mobile bg-light-blue"></div>
-      <div data-animation="over-right" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navbar-2-mobile w-nav">
-        <div class="rd-mobile-menu w-container">
-          <a href="{{ links.23 }}" class="brand w-nav-brand"><img src="{{ images.-2a484e45.url }}" loading="lazy" alt="{{ images.-2a484e45.alt | escape }}"></a>
-          <nav role="navigation" class="nav-menu-3 w-nav-menu">
-            <div class="menu-wrapper-mobile">
-              <div class="top-mobile-menu">
-                <div><img src="{{ images.-2a484e45.url }}" loading="lazy" alt="{{ images.-2a484e45.alt | escape }}"></div>
-                <div>
-                  <a fs-scrolldisable-element="toggle" href="{{ links.23 }}" class="link-block-8 w-inline-block"><img src="{{ images.-4d018dc2.url }}" loading="lazy" alt="{{ images.-4d018dc2.alt | escape }}" class="image-79"></a>
-                </div>
+    <div data-mode="" data-theme="light" class="nav_main_wrap">
+      <div data-theme="dark" class="news-banner_wrap u-bg-brand">
+        {%- assign collection = collections.insights | sort: "-f_is-news, -created-on" | limit: 1 -%}<div class="w-dyn-list">
+          {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+            {%- for item in collection -%}<div role="listitem" class="news-nav-banner u-text-style-small u-weight-medium u-mb-0 w-dyn-item">
+              <div class="u-line-clamp-1">{{ item.data.title }}</div>
+              <div class="news-banner-icon"><svg xmlns="http://www.w3.org/2000/svg" id="Arrow - Right" width="100%" viewBox="0 0 24 24">
+                  <g id="Iconly/Light-Outline/Arrow---Right" stroke="none" stroke-width="1.5" fill="none" fill-rule="evenodd">
+                    <g id="Arrow---Right" transform="translate(12.500000, 11.500000) rotate(-90.000000) translate(-12.500000, -11.500000) translate(5.500000, 3.000000)" fill="currentColor" fill-rule="nonzero">
+                      <path d="M6.7743,0 C7.15399577,0 7.46779096,0.282153882 7.51745338,0.648229443 L7.5243,0.75 L7.52369999,13.934 L12.2672291,9.17101315 C12.559491,8.8774899 13.0343636,8.87646731 13.3278869,9.16872914 C13.5947262,9.43442171 13.6198294,9.8510323 13.4026077,10.1451122 L13.3301709,10.2293869 L7.30617086,16.2793869 C7.26764619,16.3180778 7.22595266,16.3516842 7.18192314,16.3802061 C7.16866934,16.388262 7.15511061,16.3964623 7.14128041,16.4042367 C7.12942435,16.4113875 7.11711275,16.4178493 7.10466728,16.4239454 C7.08655679,16.4324122 7.06784795,16.4406833 7.04875665,16.4481939 C7.03403731,16.4542967 7.01972109,16.4593926 7.00529186,16.4640405 C6.98739762,16.4695662 6.96832963,16.4749347 6.9489704,16.4795527 C6.93545418,16.4829859 6.9224453,16.4857056 6.90938559,16.4880773 C6.88995431,16.4914125 6.86984664,16.4942514 6.84949961,16.496277 C6.83398162,16.498026 6.81860624,16.4990792 6.80321635,16.4996611 C6.79388374,16.4998115 6.78411388,16.5 6.7743,16.5 L6.74524677,16.4996251 C6.73052671,16.4990502 6.71582035,16.4980441 6.70114827,16.4966069 L6.7743,16.5 C6.72697147,16.5 6.68066686,16.4956161 6.63577008,16.4872322 C6.62504705,16.4852879 6.6140387,16.482972 6.60307688,16.4804067 C6.58049893,16.475079 6.55875812,16.4689204 6.5374423,16.4618312 C6.52685318,16.4583516 6.51553869,16.4542993 6.5043075,16.4499668 C6.48174039,16.4412024 6.46022651,16.431675 6.43927187,16.4211951 C6.42941864,16.4163265 6.41910264,16.410874 6.40889183,16.4051642 C6.392234,16.3957917 6.37640388,16.3861371 6.36097334,16.3759271 C6.35005285,16.3687237 6.33868575,16.360746 6.32749818,16.3524163 L6.31885445,16.3459258 C6.29245569,16.3257196 6.26743874,16.3037989 6.24396991,16.2803301 L6.24327306,16.279431 L0.218273061,10.229431 C-0.074013127,9.93593197 -0.0730299537,9.46105925 0.22046904,9.16877306 C0.487286308,8.90305834 0.903999213,8.879715 1.19715903,9.09817688 L1.28112694,9.17096904 L6.02369999,13.932 L6.0243,0.75 C6.0243,0.335786438 6.36008644,0 6.7743,0 Z" id="Combined-Shape"></path>
+                    </g>
+                  </g>
+                </svg></div>
+              <div style="z-index: auto" id="" class="g_clickable_wrap u-cover-absolute-5 u-radius-inherit-3 u-zindex-3-3">
+                <a target="" href="{{ links.23 }}" class="g_clickable_link u-cover-absolute-5 u-radius-inherit-3 u-display-block-3 w-inline-block"><span class="g_clickable_text u-sr-only-3"></span></a><button type="button" class="g_clickable_btn u-cover-absolute-5 u-radius-inherit-3 u-display-none-3"><span class="g_clickable_text u-sr-only-3"></span></button>
               </div>
-              <div class="main-menu-wrapper-mobile">
-                <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                  <div class="dropdown-toggle-3 w-dropdown-toggle">
-                    <div class="header-03-serif">{{ texts.-37f9ca7c }}</div><img src="{{ images.49944ba0.url }}" loading="lazy" alt="{{ images.49944ba0.alt | escape }}" class="image-78">
-                  </div>
-                  <nav class="dropdown-list-5 w-dropdown-list">
-                    <a href="{{ links.466472c8 }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.68222963 }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.-484d3960 }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.7ea071a8 }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.5063beb }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.ed40885 }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.5f00a28d }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.-6d7796d8 }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.6dddff12 }}</p>
-                        </div>
-                      </div>
-                    </a>
-                  </nav>
-                </div>
-                <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                  <div class="dropdown-toggle-3 w-dropdown-toggle">
-                    <div class="header-03-serif">{{ texts.560f747e }}</div><img src="{{ images.49944ba0.url }}" loading="lazy" alt="{{ images.49944ba0.alt | escape }}" class="image-78">
-                  </div>
-                  <nav class="dropdown-list-5 w-dropdown-list">
-                    <a href="{{ links.9463487 }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.5fb1c769 }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.-558d4e4c }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.-3b0861e7 }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.-3c207ffa }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.-63aa928d }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.272bb694 }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.73f6abff }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.227f1691 }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.-7d4b923a }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.4b01453e }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.5d187a01 }}</p>
-                        </div>
-                      </div>
-                    </a>
-                  </nav>
-                </div>
-                <div data-hover="false" data-delay="0" class="dropdown-3 w-dropdown">
-                  <div class="dropdown-toggle-3 w-dropdown-toggle">
-                    <div class="header-03-serif">{{ texts.-64202ba3 }}</div><img src="{{ images.49944ba0.url }}" loading="lazy" alt="{{ images.49944ba0.alt | escape }}" class="image-78">
-                  </div>
-                  <nav class="dropdown-list-5 w-dropdown-list">
-                    <a href="{{ links.-766f6c3e }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.645efc51 }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.4ab35b3d }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.38288f49 }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.17a4e6e2 }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.35e32fab }}</p>
-                        </div>
-                      </div>
-                    </a>
-                    <a href="{{ links.-3b998baf }}" class="menu-item-link-mobile w-inline-block">
-                      <div class="menu-item-wrapper">
-                        <div class="div-block-246">
-                          <div>
-                            <h1 class="menu-heading">{{ texts.1486a20f }}</h1>
-                          </div>
-                        </div>
-                        <div class="div-block-247">
-                          <p class="menu-item-description">{{ texts.-6f80462e }}</p>
-                        </div>
-                      </div>
-                    </a>
-                  </nav>
-                </div>
-                <div class="mobile-menu-item-wrapper">
-                  <a href="{{ links.-373b779b }}" class="menu-item-mobile w-nav-link">{{ texts.24589bfb }}</a>
-                </div>
+            </div>{%- endfor -%}
+          </div>{%- endunless -%}
+          {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+            <div>{{ texts.3d503d2b }}</div>
+          </div>{%- endif -%}
+        </div>
+      </div>
+      <div data-padding-bottom="none" data-padding-top="none" class="navbar_inner u-container u-hflex-between-center u-weight-medium">
+        <div class="navbar_inner_column">
+          <div class="nav-logo">
+            <a href="{{ links.2f }}" class="w-inline-block"><img loading="lazy" alt="{{ images.-2a484e45.alt | escape }}" src="{{ images.-2a484e45.url }}" class="navbar_inner_logo_img"></a>
+          </div>
+        </div>
+        <div class="navbar_inner_column u-hflex-left-center is-desktop">
+          <a id="solutions-trigger" href="{{ links.23 }}" class="navbar_link_block w-inline-block">
+            <div>{{ texts.3c2e81fa }}</div>
+          </a>
+          <a id="products-trigger" href="{{ links.23 }}" class="navbar_link_block w-inline-block">
+            <div>{{ texts.-37f9ca7c }}</div>
+          </a>
+          <a id="services-trigger" href="{{ links.23 }}" class="navbar_link_block w-inline-block">
+            <div>{{ texts.560f747e }}</div>
+          </a>
+          <a id="company-trigger" href="{{ links.23 }}" class="navbar_link_block w-inline-block">
+            <div>{{ texts.-64202ba3 }}</div>
+          </a>
+        </div>
+        <div class="navbar_inner_column u-hflex-right-center is-desktop">
+          <a href="{{ links.6bfbaa95 }}" class="navbar_link_block w-inline-block">
+            <div>{{ texts.7f2746de }}</div>
+          </a>
+          <div data-button-style="primary" class="btn_main_wrap">
+            <div style="z-index: auto" id="" class="g_clickable_wrap u-cover-absolute-5 u-radius-inherit-3 u-zindex-3-3">
+              <a target="" href="{{ links.-3eb6e43b }}" class="g_clickable_link u-cover-absolute-5 u-radius-inherit-3 u-display-block-3 w-inline-block"><span class="g_clickable_text u-sr-only-3">{{ texts.-204ff998 }}</span></a><button type="button" class="g_clickable_btn u-cover-absolute-5 u-radius-inherit-3 u-display-none-3"><span class="g_clickable_text u-sr-only-3">{{ texts.-204ff998 }}</span></button>
+            </div>
+            <div aria-hidden="true" class="btn_main_text u-text-style-main u-weight-medium">{{ texts.-204ff998 }}</div>
+          </div>
+        </div>
+        <div data-w-id="30f4e206-cf97-030d-c403-d0192fff4b19" class="navbar_menu_icon is-tablet div-block-304">
+          <div data-is-ix2-target="1" class="lottie-animation" data-w-id="97ec7ce7-d040-d2ce-dcf1-d96fbca1ce36" data-animation-type="lottie" data-src="/assets/documents/animation-1732741241805.lottie" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="0" data-duration="1.6166666666666667" data-ix2-initial-state="1"></div>
+        </div>
+      </div>
+      <div class="nav-bg"></div>
+      <div data-theme="light" class="nav_dropdown_list is-tablet">
+        <div id="solutions-dropdown" data-visible="hidden" class="nav_dropdown_wrap">
+          <div data-padding-bottom="small" data-padding-top="main" class="nav_dropdown_component u-container u-grid-custom u-grid-tablet">
+            <div class="nav_dropdown_column u-column-3 is-menu-title">
+              <div class="nav_dropdown_column_item is-desktop">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.6e3ceebe }}</div>
               </div>
-              <div class="div-block-252">
-                <div class="div-block-251">
-                  <a href="{{ links.-3eb6e43b }}" target="_blank" class="button sidebar-button w-button">{{ texts.-204ff998 }}</a>
-                  <a href="{{ links.6bfbaa95 }}" class="button-light sidebar-button w-button">{{ texts.7f2746de }}</a>
+              <div class="nav_dropdown_column_item is-tablet">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.3c2e81fa }}</div>
+                <div class="nav_dropdown_arrow is-tablet"><svg xmlns="http://www.w3.org/2000/svg" id="Chevron Down" width="100%" viewBox="0 0 24 24" fill="none">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.46967 8.46967C4.76256 8.17678 5.23744 8.17678 5.53033 8.46967L12 14.9393L18.4697 8.46967C18.7626 8.17678 19.2374 8.17678 19.5303 8.46967C19.8232 8.76256 19.8232 9.23744 19.5303 9.53033L12.5303 16.5303C12.3897 16.671 12.1989 16.75 12 16.75C11.8011 16.75 11.6103 16.671 11.4697 16.5303L4.46967 9.53033C4.17678 9.23744 4.17678 8.76256 4.46967 8.46967Z" fill="currentColor"></path>
+                  </svg></div>
+              </div>
+            </div>
+            <div class="nav_dropdown_column_content u-column-full u-grid-subgrid">
+              <div class="nav_dropdown_column u-vflex-left-top u-gap-6 u-column-6">
+                <a href="{{ links.-3b0861e7 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.6e1fe22a }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.e2c8cf4 }}</div>
+                </a>
+                <a href="{{ links.-7d4b923a }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.-512c2d87 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-7f175111 }}</div>
+                </a>
+                <a href="{{ links.655ac989 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.3e2ee15 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-215f13e5 }}</div>
+                </a>
+              </div>
+              <div class="nav_dropdown_column u-column-3 is-sidebar" id="">
+                <div class="nav_dropdown_slot is-tablet">
+                  <div class="nav_dropdown_column_item is-customer-story">
+                    {%- assign collection = collections.insights | filter: "f_is-news,ne,true", "ALL", page.inputPath | sort: "-created-on" | limit: 1 -%}<div class="w-dyn-list">
+                      {%- unless collection.length == 0 -%}<div role="list" class="w-dyn-items">
+                        {%- for item in collection -%}<div role="listitem" class="w-dyn-item">
+                          <div class="nav_dropdown_column_item u-gap-2"><img src="{{ images.317f733b.url }}" loading="lazy" alt="{{ images.317f733b.alt | escape }}" class="nav_dropdown_column_img u-mb-7">
+                            <div class="nav_dropdown_column_item_title u-text-style-small u-color-faded">{{ texts.-40038747 }}</div>
+                            <a href="{{ links.23 }}" class="nav_dropdown_column_item_sub u-text-style-small u-weight-medium"></a>
+                          </div>
+                        </div>{%- endfor -%}
+                      </div>{%- endunless -%}
+                      {%- if collection.length == 0 -%}<div class="w-dyn-empty">
+                        <div>{{ texts.3d503d2b }}</div>
+                      </div>{%- endif -%}
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
-          </nav>
-          <div fs-scrolldisable-element="nav" class="menu-button-3 w-nav-button">
-            <div class="w-icon-nav-menu"></div>
+          </div>
+        </div>
+        <div id="product-dropdown" data-visible="hidden" class="nav_dropdown_wrap">
+          <div data-padding-bottom="small" data-padding-top="main" class="nav_dropdown_component u-container u-grid-custom u-grid-tablet">
+            <div class="nav_dropdown_column u-column-3 is-menu-title">
+              <div class="nav_dropdown_column_item is-desktop">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.2dd53e10 }}</div>
+              </div>
+              <div class="nav_dropdown_column_item is-tablet">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.50c664cf }}</div>
+                <div class="nav_dropdown_arrow is-tablet"><svg xmlns="http://www.w3.org/2000/svg" id="Chevron Down" width="100%" viewBox="0 0 24 24" fill="none">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.46967 8.46967C4.76256 8.17678 5.23744 8.17678 5.53033 8.46967L12 14.9393L18.4697 8.46967C18.7626 8.17678 19.2374 8.17678 19.5303 8.46967C19.8232 8.76256 19.8232 9.23744 19.5303 9.53033L12.5303 16.5303C12.3897 16.671 12.1989 16.75 12 16.75C11.8011 16.75 11.6103 16.671 11.4697 16.5303L4.46967 9.53033C4.17678 9.23744 4.17678 8.76256 4.46967 8.46967Z" fill="currentColor"></path>
+                  </svg></div>
+              </div>
+            </div>
+            <div class="nav_dropdown_column_content u-column-full u-grid-subgrid">
+              <div class="nav_dropdown_column u-vflex-left-top u-gap-6 u-column-6">
+                <a href="{{ links.466472c8 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.68222963 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-2a6c845d }}</div>
+                </a>
+                <a href="{{ links.7ea071a8 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.5063beb }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-6c54e9d4 }}</div>
+                </a>
+                <a href="{{ links.5f00a28d }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.-6d7796d8 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.7cdad38a }}</div>
+                </a>
+              </div>
+              <div class="nav_dropdown_column u-column-3 is-sidebar" id="">
+                <div class="nav_dropdown_slot is-tablet"><img src="{{ images.267a3f55.url }}" loading="lazy" alt="{{ images.267a3f55.alt | escape }}" sizes="(max-width: 2288px) 100vw, 2288px" class="nav_image nav_dropdown_column_item"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="services-dropdown" data-visible="hidden" class="nav_dropdown_wrap">
+          <div data-padding-bottom="small" data-padding-top="main" class="nav_dropdown_component u-container u-grid-custom u-grid-tablet">
+            <div class="nav_dropdown_column u-column-3 is-menu-title">
+              <div class="nav_dropdown_column_item is-desktop">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.-774ee59a }}</div>
+              </div>
+              <div class="nav_dropdown_column_item is-tablet">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.560f747e }}</div>
+                <div class="nav_dropdown_arrow is-tablet"><svg xmlns="http://www.w3.org/2000/svg" id="Chevron Down" width="100%" viewBox="0 0 24 24" fill="none">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.46967 8.46967C4.76256 8.17678 5.23744 8.17678 5.53033 8.46967L12 14.9393L18.4697 8.46967C18.7626 8.17678 19.2374 8.17678 19.5303 8.46967C19.8232 8.76256 19.8232 9.23744 19.5303 9.53033L12.5303 16.5303C12.3897 16.671 12.1989 16.75 12 16.75C11.8011 16.75 11.6103 16.671 11.4697 16.5303L4.46967 9.53033C4.17678 9.23744 4.17678 8.76256 4.46967 8.46967Z" fill="currentColor"></path>
+                  </svg></div>
+              </div>
+            </div>
+            <div class="nav_dropdown_column_content u-column-full u-grid-subgrid">
+              <div class="nav_dropdown_column u-vflex-left-top u-gap-6 u-column-6">
+                <a href="{{ links.272bb694 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.59e178b2 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-2b1f5249 }}</div>
+                </a>
+                <a href="{{ links.9463487 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.5fb1c769 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-558d4e4c }}</div>
+                </a>
+                <a href="{{ links.7bc35a5a }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.-30a7fdc9 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.375f94bf }}</div>
+                </a>
+              </div>
+              <div class="nav_dropdown_column u-column-3 is-sidebar" id="">
+                <div class="nav_dropdown_slot is-tablet"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="company-dropdown" data-visible="hidden" class="nav_dropdown_wrap">
+          <div data-padding-bottom="small" data-padding-top="main" class="nav_dropdown_component u-container u-grid-custom u-grid-tablet">
+            <div class="nav_dropdown_column u-column-3 is-menu-title">
+              <div class="nav_dropdown_column_item is-desktop">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.-207c8856 }}</div>
+              </div>
+              <div class="nav_dropdown_column_item is-tablet">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.-64202ba3 }}</div>
+                <div class="nav_dropdown_arrow is-tablet"><svg xmlns="http://www.w3.org/2000/svg" id="Chevron Down" width="100%" viewBox="0 0 24 24" fill="none">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.46967 8.46967C4.76256 8.17678 5.23744 8.17678 5.53033 8.46967L12 14.9393L18.4697 8.46967C18.7626 8.17678 19.2374 8.17678 19.5303 8.46967C19.8232 8.76256 19.8232 9.23744 19.5303 9.53033L12.5303 16.5303C12.3897 16.671 12.1989 16.75 12 16.75C11.8011 16.75 11.6103 16.671 11.4697 16.5303L4.46967 9.53033C4.17678 9.23744 4.17678 8.76256 4.46967 8.46967Z" fill="currentColor"></path>
+                  </svg></div>
+              </div>
+            </div>
+            <div class="nav_dropdown_column_content u-column-full u-grid-subgrid">
+              <div class="nav_dropdown_column u-vflex-left-top u-gap-6 u-column-6">
+                <a href="{{ links.-766f6c3e }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.645efc51 }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-506d9fa9 }}</div>
+                </a>
+                <a href="{{ links.4d9427b }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.-421bb11b }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-57977cb9 }}</div>
+                </a>
+                <a href="{{ links.-3b998baf }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.1486a20f }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-6f80462e }}</div>
+                </a>
+                <a href="{{ links.-4e1c9a00 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                  <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                    <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.3016773e }}</div>
+                  </div>
+                  <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.4fd76a1 }}</div>
+                </a>
+              </div>
+              <div class="nav_dropdown_column u-column-3 is-sidebar is-link-column" id="">
+                <div class="nav_dropdown_slot is-tablet is-link-column">
+                  <a href="{{ links.38288f49 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                    <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                      <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.-7bc27f6b }}</div>
+                    </div>
+                    <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-7d47ad8 }}</div>
+                  </a>
+                  <a href="{{ links.-4cc7ca60 }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                    <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                      <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.3c6cdb60 }}</div>
+                    </div>
+                    <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.-1eb6d49b }}</div>
+                  </a>
+                  <a href="{{ links.-373b779b }}" class="nav_dropdown_column_item u-gap-2 w-inline-block">
+                    <div class="nav_dropdown_column_item_title_wrap u-hflex-left-center u-gap-5">
+                      <div class="nav_dropdown_column_item_title u-text-style-main u-weight-medium u-text-margin-none">{{ texts.24589bfb }}</div>
+                    </div>
+                    <div class="nav_dropdown_column_item_sub u-text-style-small u-color-faded">{{ texts.75600e5 }}</div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div data-visible="" class="nav_dropdown_wrap is-not-dropdown">
+          <div data-padding-bottom="small" data-padding-top="main" class="nav_dropdown_component u-container u-grid-custom u-grid-tablet">
+            <div class="nav_dropdown_column u-column-3 is-menu-title">
+              <div class="nav_dropdown_column_item is-tablet">
+                <div class="nav_dropdown_heading u-text-style-h4">{{ texts.7f2746de }}</div>
+              </div>
+            </div>
+          </div>
+          <div style="z-index: auto" id="" class="g_clickable_wrap u-cover-absolute-5 u-radius-inherit-3 u-zindex-3-3">
+            <a target="" href="{{ links.6bfbaa95 }}" class="g_clickable_link u-cover-absolute-5 u-radius-inherit-3 u-display-block-3 w-inline-block"><span class="g_clickable_text u-sr-only-3"></span></a><button type="button" class="g_clickable_btn u-cover-absolute-5 u-radius-inherit-3 u-display-none-3"><span class="g_clickable_text u-sr-only-3"></span></button>
+          </div>
+        </div>
+        <div class="nav_dropdown_wrap is-not-dropdown">
+          <div class="nav_dropdown_component u-container u-grid-custom u-grid-desktop">
+            <div data-button-style="primary" class="btn_main_wrap">
+              <div style="z-index: auto" id="" class="g_clickable_wrap u-cover-absolute-5 u-radius-inherit-3 u-zindex-3-3">
+                <a target="" href="{{ links.-3eb6e43b }}" class="g_clickable_link u-cover-absolute-5 u-radius-inherit-3 u-display-block-3 w-inline-block"><span class="g_clickable_text u-sr-only-3">{{ texts.-204ff998 }}</span></a><button type="button" class="g_clickable_btn u-cover-absolute-5 u-radius-inherit-3 u-display-none-3"><span class="g_clickable_text u-sr-only-3">{{ texts.-204ff998 }}</span></button>
+              </div>
+              <div aria-hidden="true" class="btn_main_text u-text-style-main u-weight-medium">{{ texts.-204ff998 }}</div>
+            </div>
           </div>
         </div>
       </div>
+      <div data-theme="dark" class="nav_main_overlay"></div>
     </div>
   </div>
-  <section class="section">
-    <div class="wrapper">
-      <div class="releases-wrapper">
-        <div class="div-block-267">
-          <h1>{{ texts.-6d7796d8 }}</h1>
-          <div class="header-05 neutral">{{ texts.795f71fd }}</div>
-        </div>
-        <div class="releasest-list">
-          <div class="release">
-            <div class="release-section">
-              <div>
-                <div class="release-version-heading">
-                  <div>
-                    <h4 class="header-04">{{  f_release-date| formatDate: "MMMM d, yyyy" }}</h4>
-                  </div>
-                  <div class="div-block-268">
-                    <div>{{ texts.76 }}</div>
-                    <div class="release-version">{{ f_version }}</div>
-                  </div>
-                </div>
-              </div>
-              <div class="w-layout-hflex release-row">
-                <div class="release_row_grid">
-                  <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09dc-d3ee1077" class="release-section-title">
-                    <div class="feature-label">{{ texts.1bb942dd }}</div>
-                  </div>
-                  <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09df-d3ee1077" class="release-section-content">
-                    <div class="release-rta w-richtext">{{ content | markdown }}</div>
+  <div class="page_main">
+    <section class="section">
+      <div class="u-container">
+        <div class="releases-wrapper">
+          <div class="div-block-267">
+            <h1>{{ texts.-6d7796d8 }}</h1>
+            <div class="header-05 neutral">{{ texts.795f71fd }}</div>
+          </div>
+          <div class="releasest-list">
+            <div class="release">
+              <div class="release-section">
+                <div>
+                  <div class="release-version-heading">
+                    <div>
+                      <h4 class="header-04">{{  f_release-date| formatDate: "MMMM d, yyyy" }}</h4>
+                    </div>
+                    <div class="div-block-268">
+                      <div>{{ texts.76 }}</div>
+                      <div class="release-version">{{ f_version }}</div>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="w-layout-hflex release-row">
-                <div class="release_row_grid">
-                  <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09e3-d3ee1077" class="release-section-title">
-                    <div class="feature-label improvements">{{ texts.-6311fd83 }}</div>
-                  </div>
-                  <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09e6-d3ee1077" class="release-section-content">
-                    <div class="release-rta w-richtext">{{ f_improvements | markdown }}</div>
+                <div class="w-layout-hflex release-row">
+                  <div class="release_row_grid">
+                    <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09dc-d3ee1077" class="release-section-title">
+                      <div class="feature-label">{{ texts.1bb942dd }}</div>
+                    </div>
+                    <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09df-d3ee1077" class="release-section-content">
+                      <div class="release-rta w-richtext">{{ content | markdown }}</div>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="w-layout-hflex release-row">
-                <div class="release_row_grid">
-                  <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09ea-d3ee1077" class="release-section-title">
-                    <div class="feature-label bug-fixes">{{ texts.36d70297 }}</div>
+                <div class="w-layout-hflex release-row">
+                  <div class="release_row_grid">
+                    <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09e3-d3ee1077" class="release-section-title">
+                      <div class="feature-label improvements">{{ texts.-6311fd83 }}</div>
+                    </div>
+                    <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09e6-d3ee1077" class="release-section-content">
+                      <div class="release-rta w-richtext">{{ f_improvements | markdown }}</div>
+                    </div>
                   </div>
-                  <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09ed-d3ee1077" class="release-section-content">
-                    <div class="release-rta w-richtext">{{ f_bug-fixes | markdown }}</div>
+                </div>
+                <div class="w-layout-hflex release-row">
+                  <div class="release_row_grid">
+                    <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09ea-d3ee1077" class="release-section-title">
+                      <div class="feature-label bug-fixes">{{ texts.36d70297 }}</div>
+                    </div>
+                    <div id="w-node-c2e1177f-b56a-7aa9-9638-3ac8003f09ed-d3ee1077" class="release-section-content">
+                      <div class="release-rta w-richtext">{{ f_bug-fixes | markdown }}</div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -916,8 +1070,8 @@ button:focus-visible,
           </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
+  </div>
   <div data-theme="dark" class="footer-section">
     <div data-padding-bottom="none" class="u-container footer_wrapper w-container">
       <div class="footer_inner_wrap u-gap-7 u-mb-6">
