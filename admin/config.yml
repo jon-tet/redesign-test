@@ -2684,6 +2684,20 @@ collections:
             label: Text
             name: '-534d7b72'
             widget: text
+          - hint: 'Original text: The Leadership Team, key: 4fb92109'
+            label: Text
+            name: 4fb92109
+            widget: string
+          - hint: >-
+              Original text: Leadership at Redesign is more than just a
+              title—it’s a catalyst for creativity, transparency, and
+              transformation. Our leaders inspire change, encourage reflection,
+              and empower employees to craft innovative solutions for our
+              clients, all while cultivating a welcoming and inclusive
+              environment., key: 12699154
+            label: Text
+            name: '12699154'
+            widget: text
           - hint: 'Original text: Measure twice, cut once, key: -540048a7'
             label: Text
             name: '-540048a7'
@@ -2855,152 +2869,6 @@ collections:
             label: Text
             name: '-4e07005f'
             widget: string
-          - hint: 'Original text: Careers at Redesign, key: -29aeabed'
-            label: Text
-            name: '-29aeabed'
-            widget: string
-          - hint: >-
-              Original text: Achieve your potential & contribute in a meaningful
-              way, key: -1a7340b0
-            label: Text
-            name: '-1a7340b0'
-            widget: string
-          - hint: >-
-              Original text: Our imperative is to create a better future. The
-              only sustainable way to do that, is to help people prosper., key:
-              35e32fab
-            label: Text
-            name: 35e32fab
-            widget: text
-          - hint: 'Original text: View open roles, key: -24d46a5e'
-            label: Text
-            name: '-24d46a5e'
-            widget: string
-          - hint: 'Original text: Your next big adventure, key: 73918670'
-            label: Text
-            name: '73918670'
-            widget: string
-          - hint: >-
-              Original text: Step in, tune in, learn, and adjust. Our
-              entrepreneurial system is designed to embrace a continuous
-              learning methodology. Our commitment to employees is to always be
-              presenting you with a new adventure. One that inspires your
-              curiosity, changes your perspective, and uncovers your potential.,
-              key: 5d98f048
-            label: Text
-            name: 5d98f048
-            widget: text
-          - hint: 'Original text: Turn complexity into opportunity, key: -13d88e0e'
-            label: Text
-            name: '-13d88e0e'
-            widget: string
-          - hint: 'Original text: Fast-Growth IT Company, key: -2714d8d0'
-            label: Text
-            name: '-2714d8d0'
-            widget: string
-          - hint: 'Original text: Remote-first, key: -3a769977'
-            label: Text
-            name: '-3a769977'
-            widget: string
-          - hint: 'Original text: Authenticity and Transparency, key: 449a3650'
-            label: Text
-            name: 449a3650
-            widget: string
-          - hint: 'Original text: A Word from our Team, key: -5e624db0'
-            label: Text
-            name: '-5e624db0'
-            widget: string
-          - hint: 'Original text: Darla Sheehan, key: -561fa5d6'
-            label: Text
-            name: '-561fa5d6'
-            widget: string
-          - hint: 'Original text: Director, IT Service Management, key: -5b538e3d'
-            label: Text
-            name: '-5b538e3d'
-            widget: string
-          - hint: >-
-              Original text: "As a director, I’m proud to lead a team that
-              combines curiosity, cutting-edge technologies, and deep expertise
-              to develop strategic, tailored solutions that truly address our
-              clients' needs.", key: -57830cde
-            label: Text
-            name: '-57830cde'
-            widget: text
-          - hint: 'Original text: Hiring around the globe, key: 1f19a45a'
-            label: Text
-            name: 1f19a45a
-            widget: string
-          - hint: >-
-              Original text: We're engaged all over the world, across a diverse
-              set of cultures, languages, and values. It contributes to our
-              evolving perspective of what the market needs. , key: 2a253f70
-            label: Text
-            name: 2a253f70
-            widget: text
-          - hint: 'Original text: United States, key: -7925c061'
-            label: Text
-            name: '-7925c061'
-            widget: string
-          - hint: 'Original text: Canada, key: 77df12ee'
-            label: Text
-            name: 77df12ee
-            widget: string
-          - hint: 'Original text: United Kingdom, key: -64d82fb2'
-            label: Text
-            name: '-64d82fb2'
-            widget: string
-          - hint: 'Original text: France, key: 7de7743b'
-            label: Text
-            name: 7de7743b
-            widget: string
-          - hint: 'Original text: India, key: 4383917'
-            label: Text
-            name: '4383917'
-            widget: string
-          - hint: 'Original text: Mexico, key: -76d36f2b'
-            label: Text
-            name: '-76d36f2b'
-            widget: string
-          - hint: "Original text: OPEN\_ROLES, key: -146c4739"
-            label: Text
-            name: '-146c4739'
-            widget: string
-          - hint: >-
-              Original text: Thank you! Your submission has been received!, key:
-              5a0ea5a1
-            label: Text
-            name: 5a0ea5a1
-            widget: string
-          - hint: >-
-              Original text: Oops! Something went wrong while submitting the
-              form., key: -7c112e99
-            label: Text
-            name: '-7c112e99'
-            widget: string
-          - hint: 'Original text: Apply now, key: -45d8cfc'
-            label: Text
-            name: '-45d8cfc'
-            widget: string
-          - hint: >-
-              Original text: There are no roles available for the moment, please
-              come back later., key: -59aede56
-            label: Text
-            name: '-59aede56'
-            widget: string
-          - hint: 'Original text: The Leadership Team, key: 4fb92109'
-            label: Text
-            name: 4fb92109
-            widget: string
-          - hint: >-
-              Original text: Leadership at Redesign is more than just a
-              title—it’s a catalyst for creativity, transparency, and
-              transformation. Our leaders inspire change, encourage reflection,
-              and empower employees to craft innovative solutions for our
-              clients, all while cultivating a welcoming and inclusive
-              environment., key: 12699154
-            label: Text
-            name: '12699154'
-            widget: text
           - hint: 'Original text: About us, key: 645f0031'
             label: Text
             name: 645f0031
@@ -3017,6 +2885,10 @@ collections:
             label: Text
             name: '-77fb6df1'
             widget: text
+          - hint: 'Original text: View open roles, key: -24d46a5e'
+            label: Text
+            name: '-24d46a5e'
+            widget: string
           - hint: 'Original text: Who we are, key: -47239b3c'
             label: Text
             name: '-47239b3c'
@@ -3119,9 +2991,167 @@ collections:
             label: Text
             name: '-40baffee'
             widget: text
+          - hint: 'Original text: United States, key: -7925c061'
+            label: Text
+            name: '-7925c061'
+            widget: string
+          - hint: 'Original text: Canada, key: 77df12ee'
+            label: Text
+            name: 77df12ee
+            widget: string
+          - hint: 'Original text: United Kingdom, key: -64d82fb2'
+            label: Text
+            name: '-64d82fb2'
+            widget: string
+          - hint: 'Original text: France, key: 7de7743b'
+            label: Text
+            name: 7de7743b
+            widget: string
+          - hint: 'Original text: India, key: 4383917'
+            label: Text
+            name: '4383917'
+            widget: string
           - hint: 'Original text: Philippines, key: -1fb8f95f'
             label: Text
             name: '-1fb8f95f'
+            widget: string
+          - hint: 'Original text: Careers at Redesign, key: -29aeabed'
+            label: Text
+            name: '-29aeabed'
+            widget: string
+          - hint: >-
+              Original text: Achieve your potential & contribute in a meaningful
+              way, key: -1a7340b0
+            label: Text
+            name: '-1a7340b0'
+            widget: string
+          - hint: >-
+              Original text: Our imperative is to create a better future. The
+              only sustainable way to do that, is to help people prosper., key:
+              35e32fab
+            label: Text
+            name: 35e32fab
+            widget: text
+          - hint: 'Original text: Your next big adventure, key: 73918670'
+            label: Text
+            name: '73918670'
+            widget: string
+          - hint: >-
+              Original text: Step in, tune in, learn, and adjust. Our
+              entrepreneurial system is designed to embrace a continuous
+              learning methodology. Our commitment to employees is to always be
+              presenting you with a new adventure. One that inspires your
+              curiosity, changes your perspective, and uncovers your potential.,
+              key: 5d98f048
+            label: Text
+            name: 5d98f048
+            widget: text
+          - hint: 'Original text: Turn complexity into opportunity, key: -13d88e0e'
+            label: Text
+            name: '-13d88e0e'
+            widget: string
+          - hint: 'Original text: Fast-Growth IT Company, key: -2714d8d0'
+            label: Text
+            name: '-2714d8d0'
+            widget: string
+          - hint: 'Original text: Remote-first, key: -3a769977'
+            label: Text
+            name: '-3a769977'
+            widget: string
+          - hint: 'Original text: Authenticity and Transparency, key: 449a3650'
+            label: Text
+            name: 449a3650
+            widget: string
+          - hint: 'Original text: A Word from our Team, key: -5e624db0'
+            label: Text
+            name: '-5e624db0'
+            widget: string
+          - hint: 'Original text: Darla Sheehan, key: -561fa5d6'
+            label: Text
+            name: '-561fa5d6'
+            widget: string
+          - hint: 'Original text: Director, IT Service Management, key: -5b538e3d'
+            label: Text
+            name: '-5b538e3d'
+            widget: string
+          - hint: >-
+              Original text: "As a director, I’m proud to lead a team that
+              combines curiosity, cutting-edge technologies, and deep expertise
+              to develop strategic, tailored solutions that truly address our
+              clients' needs.", key: -57830cde
+            label: Text
+            name: '-57830cde'
+            widget: text
+          - hint: 'Original text: Hiring around the globe, key: 1f19a45a'
+            label: Text
+            name: 1f19a45a
+            widget: string
+          - hint: >-
+              Original text: We're engaged all over the world, across a diverse
+              set of cultures, languages, and values. It contributes to our
+              evolving perspective of what the market needs. , key: 2a253f70
+            label: Text
+            name: 2a253f70
+            widget: text
+          - hint: 'Original text: Mexico, key: -76d36f2b'
+            label: Text
+            name: '-76d36f2b'
+            widget: string
+          - hint: "Original text: OPEN\_ROLES, key: -146c4739"
+            label: Text
+            name: '-146c4739'
+            widget: string
+          - hint: >-
+              Original text: Thank you! Your submission has been received!, key:
+              5a0ea5a1
+            label: Text
+            name: 5a0ea5a1
+            widget: string
+          - hint: >-
+              Original text: Oops! Something went wrong while submitting the
+              form., key: -7c112e99
+            label: Text
+            name: '-7c112e99'
+            widget: string
+          - hint: 'Original text: Apply now, key: -45d8cfc'
+            label: Text
+            name: '-45d8cfc'
+            widget: string
+          - hint: >-
+              Original text: There are no roles available for the moment, please
+              come back later., key: -59aede56
+            label: Text
+            name: '-59aede56'
+            widget: string
+          - hint: >-
+              Original text: Articles on cybersecurity, consulting, and
+              inovation, key: -54eaa7d9
+            label: Text
+            name: '-54eaa7d9'
+            widget: string
+          - hint: 'Original text: FEATURED POST, key: 79b91952'
+            label: Text
+            name: 79b91952
+            widget: string
+          - hint: "Original text: ALL\_POSTS, key: 4626ffd4"
+            label: Text
+            name: 4626ffd4
+            widget: string
+          - hint: 'Original text: IN THE NEWS, key: -25917623'
+            label: Text
+            name: '-25917623'
+            widget: string
+          - hint: 'Original text: Previous, key: -4811e0e9'
+            label: Text
+            name: '-4811e0e9'
+            widget: string
+          - hint: 'Original text: Load More, key: -3943e5b1'
+            label: Text
+            name: '-3943e5b1'
+            widget: string
+          - hint: 'Original text: ARTICLES, key: -1a993dc3'
+            label: Text
+            name: '-1a993dc3'
             widget: string
           - hint: 'Original text: Contact us, key: 7f274abe'
             label: Text
@@ -3205,35 +3235,19 @@ collections:
             label: Text
             name: '-1ea1ac9e'
             widget: string
+          - hint: 'Original text: Protected Page, key: -11d4bbff'
+            label: Text
+            name: '-11d4bbff'
+            widget: string
+          - hint: 'Original text: Password, key: 4c641ebb'
+            label: Text
+            name: 4c641ebb
+            widget: string
           - hint: >-
-              Original text: Articles on cybersecurity, consulting, and
-              inovation, key: -54eaa7d9
+              Original text: Incorrect password. Please try again., key:
+              -f5c4b5f
             label: Text
-            name: '-54eaa7d9'
-            widget: string
-          - hint: 'Original text: FEATURED POST, key: 79b91952'
-            label: Text
-            name: 79b91952
-            widget: string
-          - hint: "Original text: ALL\_POSTS, key: 4626ffd4"
-            label: Text
-            name: 4626ffd4
-            widget: string
-          - hint: 'Original text: IN THE NEWS, key: -25917623'
-            label: Text
-            name: '-25917623'
-            widget: string
-          - hint: 'Original text: Previous, key: -4811e0e9'
-            label: Text
-            name: '-4811e0e9'
-            widget: string
-          - hint: 'Original text: Load More, key: -3943e5b1'
-            label: Text
-            name: '-3943e5b1'
-            widget: string
-          - hint: 'Original text: ARTICLES, key: -1a993dc3'
-            label: Text
-            name: '-1a993dc3'
+            name: '-f5c4b5f'
             widget: string
           - hint: 'Original text: Events at REDESIGN, key: -2355a969'
             label: Text
@@ -3254,20 +3268,6 @@ collections:
           - hint: 'Original text: Go back to all events, key: -4191be24'
             label: Text
             name: '-4191be24'
-            widget: string
-          - hint: 'Original text: Protected Page, key: -11d4bbff'
-            label: Text
-            name: '-11d4bbff'
-            widget: string
-          - hint: 'Original text: Password, key: 4c641ebb'
-            label: Text
-            name: 4c641ebb
-            widget: string
-          - hint: >-
-              Original text: Incorrect password. Please try again., key:
-              -f5c4b5f
-            label: Text
-            name: '-f5c4b5f'
             widget: string
           - hint: 'Original text: Welcome to our community, key: 2ec5c4e'
             label: Text
@@ -3333,6 +3333,14 @@ collections:
             label: Text
             name: '-3c9353d6'
             widget: string
+          - hint: 'Original text: Upcoming event, key: -2411694a'
+            label: Text
+            name: '-2411694a'
+            widget: string
+          - hint: 'Original text:  - , key: 7db3'
+            label: Text
+            name: 7db3
+            widget: string
           - hint: 'Original text: Technology Solutions , key: -47ef7f26'
             label: Text
             name: '-47ef7f26'
@@ -3356,14 +3364,6 @@ collections:
           - hint: 'Original text: Events, key: 7c6ccd39'
             label: Text
             name: 7c6ccd39
-            widget: string
-          - hint: 'Original text: Upcoming event, key: -2411694a'
-            label: Text
-            name: '-2411694a'
-            widget: string
-          - hint: 'Original text:  - , key: 7db3'
-            label: Text
-            name: 7db3
             widget: string
           - hint: 'Original text: Thank you for contacting us!, key: -9d5e82d'
             label: Text
@@ -4063,10 +4063,6 @@ collections:
             label: Text
             name: 3cd9c78c
             widget: string
-          - hint: 'Original text: Agreements, key: -7e2d3437'
-            label: Text
-            name: '-7e2d3437'
-            widget: string
           - hint: >-
               Original text: See what's new with The Redesign Trust Portal, key:
               795f71fd
@@ -4102,6 +4098,10 @@ collections:
           - hint: 'Original text: View more, key: 1634efd0'
             label: Text
             name: 1634efd0
+            widget: string
+          - hint: 'Original text: Agreements, key: -7e2d3437'
+            label: Text
+            name: '-7e2d3437'
             widget: string
           - hint: 'Original text: Contract Listings, key: 22831dbd'
             label: Text
@@ -4551,26 +4551,6 @@ collections:
             label: Text
             name: '-6c531b22'
             widget: string
-          - hint: 'Original text: Local Presence, key: 2c4df650'
-            label: Text
-            name: 2c4df650
-            widget: string
-          - hint: 'Original text:  Global Reach, key: 59ec9ed6'
-            label: Text
-            name: 59ec9ed6
-            widget: string
-          - hint: 'Original text: US Offices, key: 31a15995'
-            label: Text
-            name: 31a15995
-            widget: string
-          - hint: 'Original text: International Offices, key: 5eaa1d65'
-            label: Text
-            name: 5eaa1d65
-            widget: string
-          - hint: 'Original text: Data Centers, key: -23ee13b8'
-            label: Text
-            name: '-23ee13b8'
-            widget: string
           - hint: 'Original text: Dedicated Private Cloud, key: -6ad29b79'
             label: Text
             name: '-6ad29b79'
@@ -4836,6 +4816,26 @@ collections:
             label: Text
             name: '-44c6c9a0'
             widget: text
+          - hint: 'Original text: Local Presence, key: 2c4df650'
+            label: Text
+            name: 2c4df650
+            widget: string
+          - hint: 'Original text:  Global Reach, key: 59ec9ed6'
+            label: Text
+            name: 59ec9ed6
+            widget: string
+          - hint: 'Original text: US Offices, key: 31a15995'
+            label: Text
+            name: 31a15995
+            widget: string
+          - hint: 'Original text: International Offices, key: 5eaa1d65'
+            label: Text
+            name: 5eaa1d65
+            widget: string
+          - hint: 'Original text: Data Centers, key: -23ee13b8'
+            label: Text
+            name: '-23ee13b8'
+            widget: string
           - hint: 'Original text: Take a Free Rapid Risk Assessment, key: -2dfc0d2d'
             label: Text
             name: '-2dfc0d2d'
@@ -6779,6 +6779,182 @@ collections:
             label: Text
             name: '-5921aa4e'
             widget: string
+          - hint: 'Original text: Webinar + Live Demo, key: 71cfb90c'
+            label: Text
+            name: 71cfb90c
+            widget: string
+          - hint: 'Original text: Master Smarter Data Protection, key: 57f35167'
+            label: Text
+            name: 57f35167
+            widget: string
+          - hint: >-
+              Original text: Explore how Dell PowerProtect Backup Services,
+              powered by Druva, defends your hybrid workloads and boosts
+              ransomware resilience — in a , key: 113374bc
+            label: Text
+            name: 113374bc
+            widget: text
+          - hint: 'Original text: 30-minute live demo, key: -c02e905'
+            label: Text
+            name: '-c02e905'
+            widget: string
+          - hint: 'Original text:  from Redesign and Dell experts., key: -5f4debde'
+            label: Text
+            name: '-5f4debde'
+            widget: string
+          - hint: 'Original text: Presented by, key: 338657bd'
+            label: Text
+            name: 338657bd
+            widget: string
+          - hint: 'Original text: Sam Aguilar, key: 181cfea2'
+            label: Text
+            name: 181cfea2
+            widget: string
+          - hint: >-
+              Original text: Director, Solutions Architecture at The Redesign
+              Group, key: 44b7af25
+            label: Text
+            name: 44b7af25
+            widget: string
+          - hint: 'Original text: Register now!, key: -26b3b0b8'
+            label: Text
+            name: '-26b3b0b8'
+            widget: string
+          - hint: >-
+              Original text: Get ready to take your data protection to the next
+              level., key: -400a2b1a
+            label: Text
+            name: '-400a2b1a'
+            widget: string
+          - hint: 'Original text: Date, key: 2063ce'
+            label: Text
+            name: 2063ce
+            widget: string
+          - hint: 'Original text: :, key: 3a'
+            label: Text
+            name: 3a
+            widget: string
+          - hint: 'Original text: June 26, 2025, key: 1957a9b7'
+            label: Text
+            name: 1957a9b7
+            widget: string
+          - hint: 'Original text: Time, key: 27c6ed'
+            label: Text
+            name: 27c6ed
+            widget: string
+          - hint: 'Original text: : 1:00-1:30 PM CDT, key: -66d84834'
+            label: Text
+            name: '-66d84834'
+            widget: string
+          - hint: 'Original text: Location, key: 752a03d5'
+            label: Text
+            name: 752a03d5
+            widget: string
+          - hint: 'Original text: : Online, key: -4d24cae7'
+            label: Text
+            name: '-4d24cae7'
+            widget: string
+          - hint: 'Original text: Reserve my seat, key: -33f3bf8b'
+            label: Text
+            name: '-33f3bf8b'
+            widget: string
+          - hint: "Original text: You're in!\_We'll send you an event invite soon., key: 1974d0cc"
+            label: Text
+            name: 1974d0cc
+            widget: string
+          - hint: 'Original text: Why attend?, key: -40326393'
+            label: Text
+            name: '-40326393'
+            widget: string
+          - hint: >-
+              Original text: Get your organization ransomware-ready., key:
+              -7d610421
+            label: Text
+            name: '-7d610421'
+            widget: string
+          - hint: >-
+              Original text: In this exclusive 30-minute live webinar, learn how
+              to strengthen your data protection strategy with a SaaS-based
+              solution designed for today’s hybrid IT environments:, key:
+              -15f5502b
+            label: Text
+            name: '-15f5502b'
+            widget: text
+          - hint: 'Original text: VMware, AHV, and Hyper-V, key: -303080af'
+            label: Text
+            name: '-303080af'
+            widget: string
+          - hint: 'Original text: VMware, AHV, Hyper-V, key: 3866bb1a'
+            label: Text
+            name: 3866bb1a
+            widget: string
+          - hint: >-
+              Original text: Microsoft 365, Google Workspace, Salesforce, key:
+              3c5aa7b5
+            label: Text
+            name: 3c5aa7b5
+            widget: string
+          - hint: >-
+              Original text: AWS and Azure native cloud environments, key:
+              590ffef7
+            label: Text
+            name: 590ffef7
+            widget: string
+          - hint: 'Original text: Bonus for attendees, key: -44bf31ff'
+            label: Text
+            name: '-44bf31ff'
+            widget: string
+          - hint: >-
+              Original text: Registrants who attend the full webinar will
+              receive a $25 DoorDash gift card., key: 13fb9b37
+            label: Text
+            name: 13fb9b37
+            widget: string
+          - hint: 'Original text: Limited availability!, key: 3c119a00'
+            label: Text
+            name: 3c119a00
+            widget: string
+          - hint: 'Original text: What you''ll learn, key: 10fa9b48'
+            label: Text
+            name: 10fa9b48
+            widget: string
+          - hint: >-
+              Original text: Discover proven data protection strategies that
+              will improve your security posture., key: -493f8f23
+            label: Text
+            name: '-493f8f23'
+            widget: string
+          - hint: 'Original text: Scalable Data Protection, key: 4135c564'
+            label: Text
+            name: 4135c564
+            widget: string
+          - hint: >-
+              Original text: How to secure cloud and on-premises workloads with
+              a flexible, reliable platform., key: -2722c03f
+            label: Text
+            name: '-2722c03f'
+            widget: string
+          - hint: 'Original text: Strengthen Defenses, key: -3c9aeb17'
+            label: Text
+            name: '-3c9aeb17'
+            widget: string
+          - hint: >-
+              Original text: How built-in ransomware features can help you
+              detect, defend, and recover fast., key: -7407c56
+            label: Text
+            name: '-7407c56'
+            widget: string
+          - hint: 'Original text: See Platform in Action, key: -642da08f'
+            label: Text
+            name: '-642da08f'
+            widget: string
+          - hint: >-
+              Original text: Step-by-step live demo from Dell and Redesign
+              experts to improve your backup and recovery strategy with Dell’s
+              PowerProtect Backup Services., key: 6c159160
+            label: Text
+            name: 6c159160
+            widget: text
           - hint: 'Original text: Terms & Conditions, key: 4f912d2b'
             label: Text
             name: 4f912d2b
@@ -7286,182 +7462,6 @@ collections:
             label: Text
             name: '-7f0ce6a3'
             widget: string
-          - hint: 'Original text: Webinar + Live Demo, key: 71cfb90c'
-            label: Text
-            name: 71cfb90c
-            widget: string
-          - hint: 'Original text: Master Smarter Data Protection, key: 57f35167'
-            label: Text
-            name: 57f35167
-            widget: string
-          - hint: >-
-              Original text: Explore how Dell PowerProtect Backup Services,
-              powered by Druva, defends your hybrid workloads and boosts
-              ransomware resilience — in a , key: 113374bc
-            label: Text
-            name: 113374bc
-            widget: text
-          - hint: 'Original text: 30-minute live demo, key: -c02e905'
-            label: Text
-            name: '-c02e905'
-            widget: string
-          - hint: 'Original text:  from Redesign and Dell experts., key: -5f4debde'
-            label: Text
-            name: '-5f4debde'
-            widget: string
-          - hint: 'Original text: Presented by, key: 338657bd'
-            label: Text
-            name: 338657bd
-            widget: string
-          - hint: 'Original text: Sam Aguilar, key: 181cfea2'
-            label: Text
-            name: 181cfea2
-            widget: string
-          - hint: >-
-              Original text: Director, Solutions Architecture at The Redesign
-              Group, key: 44b7af25
-            label: Text
-            name: 44b7af25
-            widget: string
-          - hint: 'Original text: Register now!, key: -26b3b0b8'
-            label: Text
-            name: '-26b3b0b8'
-            widget: string
-          - hint: >-
-              Original text: Get ready to take your data protection to the next
-              level., key: -400a2b1a
-            label: Text
-            name: '-400a2b1a'
-            widget: string
-          - hint: 'Original text: Date, key: 2063ce'
-            label: Text
-            name: 2063ce
-            widget: string
-          - hint: 'Original text: :, key: 3a'
-            label: Text
-            name: 3a
-            widget: string
-          - hint: 'Original text: June 26, 2025, key: 1957a9b7'
-            label: Text
-            name: 1957a9b7
-            widget: string
-          - hint: 'Original text: Time, key: 27c6ed'
-            label: Text
-            name: 27c6ed
-            widget: string
-          - hint: 'Original text: : 1:00-1:30 PM CDT, key: -66d84834'
-            label: Text
-            name: '-66d84834'
-            widget: string
-          - hint: 'Original text: Location, key: 752a03d5'
-            label: Text
-            name: 752a03d5
-            widget: string
-          - hint: 'Original text: : Online, key: -4d24cae7'
-            label: Text
-            name: '-4d24cae7'
-            widget: string
-          - hint: 'Original text: Reserve my seat, key: -33f3bf8b'
-            label: Text
-            name: '-33f3bf8b'
-            widget: string
-          - hint: "Original text: You're in!\_We'll send you an event invite soon., key: 1974d0cc"
-            label: Text
-            name: 1974d0cc
-            widget: string
-          - hint: 'Original text: Why attend?, key: -40326393'
-            label: Text
-            name: '-40326393'
-            widget: string
-          - hint: >-
-              Original text: Get your organization ransomware-ready., key:
-              -7d610421
-            label: Text
-            name: '-7d610421'
-            widget: string
-          - hint: >-
-              Original text: In this exclusive 30-minute live webinar, learn how
-              to strengthen your data protection strategy with a SaaS-based
-              solution designed for today’s hybrid IT environments:, key:
-              -15f5502b
-            label: Text
-            name: '-15f5502b'
-            widget: text
-          - hint: 'Original text: VMware, AHV, and Hyper-V, key: -303080af'
-            label: Text
-            name: '-303080af'
-            widget: string
-          - hint: 'Original text: VMware, AHV, Hyper-V, key: 3866bb1a'
-            label: Text
-            name: 3866bb1a
-            widget: string
-          - hint: >-
-              Original text: Microsoft 365, Google Workspace, Salesforce, key:
-              3c5aa7b5
-            label: Text
-            name: 3c5aa7b5
-            widget: string
-          - hint: >-
-              Original text: AWS and Azure native cloud environments, key:
-              590ffef7
-            label: Text
-            name: 590ffef7
-            widget: string
-          - hint: 'Original text: Bonus for attendees, key: -44bf31ff'
-            label: Text
-            name: '-44bf31ff'
-            widget: string
-          - hint: >-
-              Original text: Registrants who attend the full webinar will
-              receive a $25 DoorDash gift card., key: 13fb9b37
-            label: Text
-            name: 13fb9b37
-            widget: string
-          - hint: 'Original text: Limited availability!, key: 3c119a00'
-            label: Text
-            name: 3c119a00
-            widget: string
-          - hint: 'Original text: What you''ll learn, key: 10fa9b48'
-            label: Text
-            name: 10fa9b48
-            widget: string
-          - hint: >-
-              Original text: Discover proven data protection strategies that
-              will improve your security posture., key: -493f8f23
-            label: Text
-            name: '-493f8f23'
-            widget: string
-          - hint: 'Original text: Scalable Data Protection, key: 4135c564'
-            label: Text
-            name: 4135c564
-            widget: string
-          - hint: >-
-              Original text: How to secure cloud and on-premises workloads with
-              a flexible, reliable platform., key: -2722c03f
-            label: Text
-            name: '-2722c03f'
-            widget: string
-          - hint: 'Original text: Strengthen Defenses, key: -3c9aeb17'
-            label: Text
-            name: '-3c9aeb17'
-            widget: string
-          - hint: >-
-              Original text: How built-in ransomware features can help you
-              detect, defend, and recover fast., key: -7407c56
-            label: Text
-            name: '-7407c56'
-            widget: string
-          - hint: 'Original text: See Platform in Action, key: -642da08f'
-            label: Text
-            name: '-642da08f'
-            widget: string
-          - hint: >-
-              Original text: Step-by-step live demo from Dell and Redesign
-              experts to improve your backup and recovery strategy with Dell’s
-              PowerProtect Backup Services., key: 6c159160
-            label: Text
-            name: 6c159160
-            widget: text
           - hint: 'Original text: Welcome to Redesign Club 2025!, key: -4cb7ad62'
             label: Text
             name: '-4cb7ad62'
@@ -8272,6 +8272,13 @@ collections:
             widget: string
           - hint: >-
               Original link:
+              https://redesign-group.zoom.us/webinar/register/WN_YM7WlWoDSeaJdob0TDt0wA?_ics=1748462307216&irclickid=~7cgd65WQLS0YZ14URSZ5WMNJMJFGCINKJNKEFvwvujg93URKICzp#/registration,
+              key: 6660800
+            label: Link
+            name: '6660800'
+            widget: string
+          - hint: >-
+              Original link:
               https://www.privacypolicies.com/live/www.redesign-group.com, key:
               562e886
             label: Link
@@ -8280,13 +8287,6 @@ collections:
           - hint: 'Original link: mailto:legal@redesign-group.com, key: -13a6b29b'
             label: Link
             name: '-13a6b29b'
-            widget: string
-          - hint: >-
-              Original link:
-              https://redesign-group.zoom.us/webinar/register/WN_YM7WlWoDSeaJdob0TDt0wA?_ics=1748462307216&irclickid=~7cgd65WQLS0YZ14URSZ5WMNJMJFGCINKJNKEFvwvujg93URKICzp#/registration,
-              key: 6660800
-            label: Link
-            name: '6660800'
             widget: string
           - hint: 'Original link: #day-1, key: 4168affd'
             label: Link
@@ -8600,7 +8600,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5611d0b2'
+            name: 4abef31c
             widget: object
             fields:
               - name: url
@@ -8613,7 +8613,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 4abef31c
+            name: '-5611d0b2'
             widget: object
             fields:
               - name: url
