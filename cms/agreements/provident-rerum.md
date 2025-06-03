@@ -7,7 +7,7 @@ published-on: '2024-02-22T15:02:57.704Z'
 f_sort-order: 5
 f_link: >-
   https://scottandscottllp.com/wp-content/uploads/2023/10/ReDesign-3rd-Party-Services.pdf
-layout: '[agreements].html'
+layout: base
 tags: agreements
 ---
 

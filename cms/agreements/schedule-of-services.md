@@ -7,7 +7,7 @@ published-on: '2024-02-22T15:02:57.704Z'
 f_sort-order: 2
 f_link: >-
   https://scottandscottllp.com/wp-content/uploads/2024/02/ReDesign-Schedule-of-Servies-02.20.pdf
-layout: '[agreements].html'
+layout: base
 tags: agreements
 ---
 
